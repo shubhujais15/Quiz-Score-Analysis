@@ -23,7 +23,7 @@ Quiz Score Analysis is a web application built using **Next.js**, **TypeScript**
 ![Home Page](./public/ss1.png)  
 
 ### 📊  
-![Score Analysis](./public/ss1.png)  
+![Score Analysis](./public/ss2.png)  
 
 ## 🏗️ Installation & Setup  
 
